@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea560ab7-8c76-401b-8bc4-a22b85d6eebc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicios/PrimerEjercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/PrimerEjercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tests/PrimeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/PrimeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/SegundoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/SegundoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1664402497618</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primera iteracion EJ1">
+      <created>1664408010102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664408010102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Primera iteracion EJ1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera iteracion EJ1" />
   </component>
 </project>

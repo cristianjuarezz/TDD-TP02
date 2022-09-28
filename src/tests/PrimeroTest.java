@@ -14,7 +14,17 @@ public class PrimeroTest {
     }
 
     @Test
-    public void sumaHasta20(){ // 3, 5, 6, 9, 10, 12, 15, 18 - 10
-        Assert.assertEquals(PrimerEjercicio.sumatoriaMultiplos(20), 56);
+    public void sumaHasta20(){ // 3, 5, 6, 9, 10, 12, 15, 18 - 20
+        Assert.assertEquals(PrimerEjercicio.sumatoriaMultiplos(20), 78);
+    }
+
+    @Test
+    public void sumaHasta300(){
+        Assert.assertEquals(PrimerEjercicio.sumatoriaMultiplos(300), 20850);
+    }
+
+    @Test
+    public void sumaHasta1000(){
+        Assert.assertEquals(PrimerEjercicio.sumatoriaMultiplos(1000), 233168);
     }
 }
