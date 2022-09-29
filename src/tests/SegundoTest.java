@@ -1,11 +1,12 @@
 package tests;
 
+import ejercicios.Segundo;
 import jdk.jfr.Description;
 import org.junit.Assert;
 import org.junit.Test;
 
 public class SegundoTest {
-    /*@Test
+    @Test
     @Description("Un array vacio da 0")
     public void unArrayVacioDa0() {
         int[] arrayVacio = {};
@@ -66,5 +67,5 @@ public class SegundoTest {
     public void tresElementos3() {
         int[] arrayTresElementos = { 3, 2, 1 };
         Assert.assertEquals(6, Segundo.resultado(arrayTresElementos));
-    }*/
+    }
 }
