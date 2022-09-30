@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea560ab7-8c76-401b-8bc4-a22b85d6eebc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/Segundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/Tercero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/TerceroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Cuarto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Quinto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/CuartoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/QuintoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/SegundoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/SegundoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/PrimerEjercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Primero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/PrimeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/PrimeroTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,15 +41,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.TerceroTest">
+}]]></component>
+  <component name="RunManager" selected="JUnit.QuintoTest">
+    <configuration name="CuartoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-TP02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CuartoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuintoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-TP02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.QuintoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuintoTest.es222Palindromo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD-TP02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.QuintoTest" />
+      <option name="METHOD_NAME" value="es222Palindromo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SegundoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD-TP02" />
       <extension name="coverage">
@@ -54,38 +108,6 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.SegundoTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SegundoTest.dosElementos3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD-TP02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SegundoTest" />
-      <option name="METHOD_NAME" value="dosElementos3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SegundoTest.tresElementos3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD-TP02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SegundoTest" />
-      <option name="METHOD_NAME" value="tresElementos3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,10 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QuintoTest" />
+        <item itemvalue="JUnit.CuartoTest" />
+        <item itemvalue="JUnit.QuintoTest.es222Palindromo" />
         <item itemvalue="JUnit.TerceroTest" />
         <item itemvalue="JUnit.SegundoTest" />
-        <item itemvalue="JUnit.SegundoTest.dosElementos3" />
-        <item itemvalue="JUnit.SegundoTest.tresElementos3" />
       </list>
     </recent_temporary>
   </component>
@@ -137,12 +160,20 @@
       <option name="project" value="LOCAL" />
       <updated>1664409315982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tercer Ejercicio">
+      <created>1664410590426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664410590426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Primera iteracion EJ1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera iteracion EJ1" />
+    <MESSAGE value="Tercer Ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tercer Ejercicio" />
   </component>
 </project>

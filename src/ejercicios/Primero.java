@@ -1,9 +1,6 @@
 package ejercicios;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class PrimerEjercicio {
+public class Primero {
 
 
     public static int sumatoriaMultiplos(int n) { // 3, 5, 6, 9 - 10
