@@ -5,7 +5,7 @@ import ejercicios.EjercicioOcho;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class OctavoTest {
+/*public class OctavoTest {
 
 
     @Test
@@ -15,3 +15,4 @@ public class OctavoTest {
 
 
 }
+*/
