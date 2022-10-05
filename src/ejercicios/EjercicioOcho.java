@@ -1,16 +1,17 @@
 package ejercicios;
 import java.math.BigInteger;
 
-interface Palindromo{
-    boolean esPalindromo(BigInteger n);
-}
-
 public class EjercicioOcho {
 
     public static void main(String[] args){
         
     }
-
+    
+    public String  deDecimalABinarioString(int num) {
+        String binaryString = Integer.toBinaryString(num);
+        return binaryString;
+    }
+    
     public int sumaDePolindromoEnDecimalYBinarioHasta(int n) {
         int suma=0;
         for(int i=10;i<n;i++){
